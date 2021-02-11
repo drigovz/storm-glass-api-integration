@@ -14,3 +14,5 @@ Little API integration with Node.js, Typescript, TDD and MongoDB
 * Javascript
 * ES Lint
 * Ts-Node
+* Overnight.js
+* Jest
