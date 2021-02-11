@@ -3,10 +3,10 @@ Little API integration with Node.js, Typescript, TDD and MongoDB
 
 #### How to Start this Project
 * To start this application, first run the following command:
- **yarn build**
+*** **yarn build**
 * With this command, you generate the **dist** folder with JS files and Map files.
 * After, for start application, you must run the following command:
- **yarn start**
+*** **yarn start**
 
 <!-- ### API Documentations
 * Access **Swagger** documentation before the application start: [http://localhost:5000/swagger/ui/index.html](http://localhost:5000/swagger/ui/index.html) 
